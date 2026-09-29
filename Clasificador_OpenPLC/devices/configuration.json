@@ -1,6 +1,6 @@
 {
   "deviceBoard": "ESP32 WROOM",
-  "communicationPort": "",
+  "communicationPort": "COM5",
   "runtimeIpAddress": "",
   "vendorScreenData": {
     "modbus_rtu": {
@@ -26,7 +26,18 @@
         "tcp_wifi_password": "CAMBIAR_CLAVE",
         "enable_dhcp": true
       }
-    }
+    },
+    "ESP32 WROVER": {},
+    "ESP32 Generic": {},
+    "ESP32-S3": {},
+    "ESP8266 NodeMCU": {},
+    "ESP32-C3": {},
+    "ESP32-C6-DevKitC-1 V1.2": {},
+    "ESP32-DOIT DEVKIT V1": {},
+    "ESP32-S2": {},
+    "ESP8266 D1-mini": {},
+    "Arduino Due (Native USB Port)": {}
   },
-  "selectedPlatformOptions": {}
+  "selectedPlatformOptions": {},
+  "persistentStorageByBoard": {}
 }

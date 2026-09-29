@@ -38647,7 +38647,8 @@ PROGRAM main
           },
           "draggable": false,
           "selectable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "CONTACT_d32dca82-863c-4446-b3ad-2997bc632872",
@@ -38792,7 +38793,8 @@ PROGRAM main
           },
           "draggable": true,
           "selectable": true,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "BLOCK_7c85caef-d291-4880-8d97-6f3a2672bbdd",
@@ -39082,7 +39084,8 @@ PROGRAM main
           },
           "draggable": true,
           "selectable": true,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "right-rail-rung_main_002a4639-fbfb-4fd1-b0a5-7534611c4e09",
@@ -39170,7 +39173,8 @@ PROGRAM main
           },
           "draggable": false,
           "selectable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "VARIABLE_3f3a5ba8-af4f-48e0-b237-99985eba6738",
@@ -39258,7 +39262,8 @@ PROGRAM main
           "deletable": false,
           "selectable": true,
           "draggable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "VARIABLE_d2c6ab17-1e08-4f84-b7ae-fbd3b73e2597",
@@ -39355,7 +39360,8 @@ PROGRAM main
           "deletable": false,
           "selectable": true,
           "draggable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         }
       ],
       "edges": [
@@ -39494,7 +39500,8 @@ PROGRAM main
           },
           "draggable": false,
           "selectable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "BLOCK_86e2fc7b-9f5b-48eb-b0e8-c45d3a4f8c63",
@@ -39786,7 +39793,8 @@ PROGRAM main
           },
           "draggable": true,
           "selectable": true,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "BLOCK_351f8337-f20d-4dc2-ae25-f10da09278b7",
@@ -40078,7 +40086,8 @@ PROGRAM main
           },
           "draggable": true,
           "selectable": true,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "BLOCK_05f1b88a-dbea-4b5d-94f0-15487b882fae",
@@ -40430,7 +40439,8 @@ PROGRAM main
           },
           "draggable": true,
           "selectable": true,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "right-rail-rung_main_5c258602-f9a2-4714-ba0c-0339e1b2141d",
@@ -40518,7 +40528,8 @@ PROGRAM main
           },
           "draggable": false,
           "selectable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "VARIABLE_86cebdea-381a-4b73-8278-0d221da37848",
@@ -40615,7 +40626,8 @@ PROGRAM main
           "deletable": false,
           "selectable": true,
           "draggable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "VARIABLE_ce07caec-40ee-411c-83fc-4a8932bf119f",
@@ -40712,7 +40724,8 @@ PROGRAM main
           "deletable": false,
           "selectable": true,
           "draggable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "VARIABLE_ef17d99f-dada-46e6-85dc-6265bc679a2e",
@@ -40809,7 +40822,8 @@ PROGRAM main
           "deletable": false,
           "selectable": true,
           "draggable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "VARIABLE_f1d49c5a-922c-4fc1-b6d3-38c5e6573f02",
@@ -40906,7 +40920,8 @@ PROGRAM main
           "deletable": false,
           "selectable": true,
           "draggable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "VARIABLE_ada69d25-23a1-4469-964c-2d0aa838308e",
@@ -41003,7 +41018,8 @@ PROGRAM main
           "deletable": false,
           "selectable": true,
           "draggable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "VARIABLE_e3a1857e-f707-4f6e-b449-68626d4a280f",
@@ -41100,7 +41116,8 @@ PROGRAM main
           "deletable": false,
           "selectable": true,
           "draggable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "VARIABLE_a930139a-b754-428c-a378-a6c5cb1426ab",
@@ -41197,7 +41214,8 @@ PROGRAM main
           "deletable": false,
           "selectable": true,
           "draggable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         }
       ],
       "edges": [
@@ -41378,7 +41396,8 @@ PROGRAM main
           },
           "draggable": false,
           "selectable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "BLOCK_4e12d481-d9c5-4d6e-bf40-0807fac890cc",
@@ -41730,7 +41749,8 @@ PROGRAM main
           },
           "draggable": true,
           "selectable": true,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "BLOCK_0a2ac627-5ea1-4f62-b616-ca6f1f0fb20f",
@@ -42082,7 +42102,8 @@ PROGRAM main
           },
           "draggable": true,
           "selectable": true,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "right-rail-rung_main_e5e5b48d-b8bd-4881-a317-ae207f06baff",
@@ -42170,7 +42191,8 @@ PROGRAM main
           },
           "draggable": false,
           "selectable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "VARIABLE_7d6a0710-f256-44c2-9d31-a45bd6c241b1",
@@ -42267,7 +42289,8 @@ PROGRAM main
           "deletable": false,
           "selectable": true,
           "draggable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "VARIABLE_02bf84c9-ea0e-48b1-bb2f-d3dce07967d0",
@@ -42364,7 +42387,8 @@ PROGRAM main
           "deletable": false,
           "selectable": true,
           "draggable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "VARIABLE_5115a244-04d5-4405-aa66-2c020de02cf9",
@@ -42461,7 +42485,8 @@ PROGRAM main
           "deletable": false,
           "selectable": true,
           "draggable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "VARIABLE_c916b4b6-57c1-422d-92ed-58204a590585",
@@ -42558,7 +42583,8 @@ PROGRAM main
           "deletable": false,
           "selectable": true,
           "draggable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "VARIABLE_fc0ad5a0-a8ee-4935-8873-f79ba4c35d00",
@@ -42655,7 +42681,8 @@ PROGRAM main
           "deletable": false,
           "selectable": true,
           "draggable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "VARIABLE_17032dd3-852d-48c0-90ac-cc4bca303623",
@@ -42752,7 +42779,8 @@ PROGRAM main
           "deletable": false,
           "selectable": true,
           "draggable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         }
       ],
       "edges": [
@@ -42919,7 +42947,8 @@ PROGRAM main
           },
           "draggable": false,
           "selectable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "BLOCK_b683fba6-c97c-4ceb-b2e1-2ac1e178a7d1",
@@ -43157,7 +43186,8 @@ PROGRAM main
           },
           "draggable": true,
           "selectable": true,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "right-rail-rung_main_1a1565fe-e519-4dab-89a9-e68a71fecaaa",
@@ -43245,7 +43275,8 @@ PROGRAM main
           },
           "draggable": false,
           "selectable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         },
         {
           "id": "VARIABLE_428dc01a-8c65-4b1a-a58e-cdfbff944cdf",
@@ -43342,7 +43373,8 @@ PROGRAM main
           "deletable": false,
           "selectable": true,
           "draggable": false,
-          "selected": false
+          "selected": false,
+          "dragging": false
         }
       ],
       "edges": [

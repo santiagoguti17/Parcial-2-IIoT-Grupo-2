@@ -1,0 +1,679 @@
+{
+  "version": 2,
+  "md5": "d9ac2e91ca6a69165d041fd0fb8bc9c8",
+  "typeTags": {
+    "BOOL": 0,
+    "SINT": 1,
+    "USINT": 2,
+    "INT": 3,
+    "UINT": 4,
+    "DINT": 5,
+    "UDINT": 6,
+    "LINT": 7,
+    "ULINT": 8,
+    "REAL": 9,
+    "LREAL": 10,
+    "BYTE": 11,
+    "WORD": 12,
+    "DWORD": 13,
+    "LWORD": 14,
+    "TIME": 15,
+    "DATE": 16,
+    "TOD": 17,
+    "DT": 18,
+    "STRING": 19,
+    "WSTRING": 20
+  },
+  "arrays": [
+    {
+      "index": 0,
+      "count": 92
+    }
+  ],
+  "leaves": [
+    {
+      "arrayIdx": 0,
+      "elemIdx": 0,
+      "path": "INSTANCE0.SENSOR_LOCAL",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 1,
+      "path": "INSTANCE0.SENSOR_EXPORT",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 2,
+      "path": "INSTANCE0.START_PULSO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 3,
+      "path": "INSTANCE0.RESETALARM",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 4,
+      "path": "INSTANCE0.LLEGADA_EXPORT",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 5,
+      "path": "INSTANCE0.LLEGADA_LOCAL",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 6,
+      "path": "INSTANCE0.FINCICLO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 7,
+      "path": "INSTANCE0.CV_ESEXPORT",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 8,
+      "path": "INSTANCE0.CV_ESLOCAL",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 9,
+      "path": "INSTANCE0.CV_ESERROR",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 10,
+      "path": "INSTANCE0.CV_NUEVO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 11,
+      "path": "INSTANCE0.ALM_CVINVALIDO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 12,
+      "path": "INSTANCE0.ALM_TIMEOUTCV",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 13,
+      "path": "INSTANCE0.ALM_TIMEOUTMOV",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 14,
+      "path": "INSTANCE0.CV_ID_ULTIMO",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 15,
+      "path": "INSTANCE0.R_TRIG_START.CLK",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 16,
+      "path": "INSTANCE0.R_TRIG_START.Q",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 17,
+      "path": "INSTANCE0.R_TRIG_EXPORT.CLK",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 18,
+      "path": "INSTANCE0.R_TRIG_EXPORT.Q",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 19,
+      "path": "INSTANCE0.R_TRIG_LOCAL.CLK",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 20,
+      "path": "INSTANCE0.R_TRIG_LOCAL.Q",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 21,
+      "path": "INSTANCE0.CTU_EXPORT.CU",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 22,
+      "path": "INSTANCE0.CTU_EXPORT.R",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 23,
+      "path": "INSTANCE0.CTU_EXPORT.PV",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 24,
+      "path": "INSTANCE0.CTU_EXPORT.Q",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 25,
+      "path": "INSTANCE0.CTU_EXPORT.CV",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 26,
+      "path": "INSTANCE0.CTU_LOCAL.CU",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 27,
+      "path": "INSTANCE0.CTU_LOCAL.R",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 28,
+      "path": "INSTANCE0.CTU_LOCAL.PV",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 29,
+      "path": "INSTANCE0.CTU_LOCAL.Q",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 30,
+      "path": "INSTANCE0.CTU_LOCAL.CV",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 31,
+      "path": "INSTANCE0.TON_CVTIMEOUT.IN",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 32,
+      "path": "INSTANCE0.TON_CVTIMEOUT.PT",
+      "type": "TIME",
+      "size": 8
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 33,
+      "path": "INSTANCE0.TON_CVTIMEOUT.Q",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 34,
+      "path": "INSTANCE0.TON_CVTIMEOUT.ET",
+      "type": "TIME",
+      "size": 8
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 35,
+      "path": "INSTANCE0.TON_MOVETIMEOUT.IN",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 36,
+      "path": "INSTANCE0.TON_MOVETIMEOUT.PT",
+      "type": "TIME",
+      "size": 8
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 37,
+      "path": "INSTANCE0.TON_MOVETIMEOUT.Q",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 38,
+      "path": "INSTANCE0.TON_MOVETIMEOUT.ET",
+      "type": "TIME",
+      "size": 8
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 39,
+      "path": "INSTANCE0.TON_DESCARGA.IN",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 40,
+      "path": "INSTANCE0.TON_DESCARGA.PT",
+      "type": "TIME",
+      "size": 8
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 41,
+      "path": "INSTANCE0.TON_DESCARGA.Q",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 42,
+      "path": "INSTANCE0.TON_DESCARGA.ET",
+      "type": "TIME",
+      "size": 8
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 43,
+      "path": "INSTANCE0.START_PB",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 44,
+      "path": "INSTANCE0.STOP_PB",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 45,
+      "path": "INSTANCE0.IN_ESTOP",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 46,
+      "path": "INSTANCE0.IN_IR_CENTRO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 47,
+      "path": "INSTANCE0.IN_IR_LOCAL",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 48,
+      "path": "INSTANCE0.IN_IR_EXPORT",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 49,
+      "path": "INSTANCE0.MOTOR_DERECHA",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 50,
+      "path": "INSTANCE0.MOTOR_IZQUIERDA",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 51,
+      "path": "INSTANCE0.MOTOR_ENABLE",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 52,
+      "path": "INSTANCE0.PILOTO_VERDE",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 53,
+      "path": "INSTANCE0.PILOTO_ROJO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 54,
+      "path": "INSTANCE0.SYSTEMACTIVE",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 55,
+      "path": "INSTANCE0.CYCLEACTIVE",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 56,
+      "path": "INSTANCE0.LISTO_CV",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 57,
+      "path": "INSTANCE0.ALARM",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 58,
+      "path": "INSTANCE0.EMERGENCYSTOP",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 59,
+      "path": "INSTANCE0.MOVEEXPORT",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 60,
+      "path": "INSTANCE0.MOVELOCAL",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 61,
+      "path": "INSTANCE0.SENSOR_CENTRO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 62,
+      "path": "INSTANCE0.CV_RESULT",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 63,
+      "path": "INSTANCE0.CV_ID",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 64,
+      "path": "INSTANCE0.TOTALEXPORT",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 65,
+      "path": "INSTANCE0.CAJASEXPORT",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 66,
+      "path": "INSTANCE0.MANDARINASCAJAEXPORT",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 67,
+      "path": "INSTANCE0.TOTALLOCAL",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 68,
+      "path": "INSTANCE0.CAJASLOCAL",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 69,
+      "path": "INSTANCE0.MANDARINASCAJALOCAL",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 70,
+      "path": "INSTANCE0._TMP_EQ2593184_ENO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 71,
+      "path": "INSTANCE0._TMP_EQ2593184_OUT",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 72,
+      "path": "INSTANCE0._TMP_EQ6492197_ENO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 73,
+      "path": "INSTANCE0._TMP_EQ6492197_OUT",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 74,
+      "path": "INSTANCE0._TMP_GT2051234_ENO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 75,
+      "path": "INSTANCE0._TMP_GT2051234_OUT",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 76,
+      "path": "INSTANCE0._TMP_NE9984493_ENO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 77,
+      "path": "INSTANCE0._TMP_NE9984493_OUT",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 78,
+      "path": "INSTANCE0._TMP_MOVE2833528_ENO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 79,
+      "path": "INSTANCE0._TMP_MOVE2833528_OUT",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 80,
+      "path": "INSTANCE0._TMP_DIV8364540_ENO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 81,
+      "path": "INSTANCE0._TMP_DIV8364540_OUT",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 82,
+      "path": "INSTANCE0._TMP_MOD7440066_ENO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 83,
+      "path": "INSTANCE0._TMP_MOD7440066_OUT",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 84,
+      "path": "INSTANCE0._TMP_DIV2136176_ENO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 85,
+      "path": "INSTANCE0._TMP_DIV2136176_OUT",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 86,
+      "path": "INSTANCE0._TMP_MOD5788597_ENO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 87,
+      "path": "INSTANCE0._TMP_MOD5788597_OUT",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 88,
+      "path": "INSTANCE0._TMP_MOVE2111960_ENO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 89,
+      "path": "INSTANCE0._TMP_MOVE2111960_OUT",
+      "type": "INT",
+      "size": 2
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 90,
+      "path": "INSTANCE0._TMP_MOVE6496979_ENO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 91,
+      "path": "INSTANCE0._TMP_MOVE6496979_OUT",
+      "type": "INT",
+      "size": 2
+    }
+  ]
+}

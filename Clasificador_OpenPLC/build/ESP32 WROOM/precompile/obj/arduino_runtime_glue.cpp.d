@@ -1,0 +1,26 @@
+C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\precompile\obj\arduino_runtime_glue.cpp.o: \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\precompile\sources\arduino_runtime_glue.cpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/arduino_runtime_glue.h \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/openplc.h \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/generated.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_types.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_var.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_global.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_array.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_fault.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_located.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_std_lib.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_traits.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_retain.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_ptr.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_string.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_wstring.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_time.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_date.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_dt.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_tod.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_enum.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_memory.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/iec_pointer.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/debug_dispatch.hpp \
+ C:\Users\santi\Documents\parcial2iiot\openplc\Clasificador_OpenPLC\build\ESP32\ WROOM\src/debug_table.hpp

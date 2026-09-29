@@ -1,0 +1,32 @@
+{
+  "deviceBoard": "ESP32 WROOM",
+  "communicationPort": "",
+  "runtimeIpAddress": "",
+  "vendorScreenData": {
+    "modbus_rtu": {
+      "enabled": false
+    },
+    "modbus_tcp": {
+      "enabled": true,
+      "tcp_interface": "Wi-Fi",
+      "tcp_wifi_ssid": "CAMBIAR_SSID",
+      "tcp_wifi_password": "CAMBIAR_CLAVE",
+      "enable_dhcp": true
+    }
+  },
+  "vendorScreenDataByBoard": {
+    "ESP32 WROOM": {
+      "modbus_rtu": {
+        "enabled": false
+      },
+      "modbus_tcp": {
+        "enabled": true,
+        "tcp_interface": "Wi-Fi",
+        "tcp_wifi_ssid": "CAMBIAR_SSID",
+        "tcp_wifi_password": "CAMBIAR_CLAVE",
+        "enable_dhcp": true
+      }
+    }
+  },
+  "selectedPlatformOptions": {}
+}
